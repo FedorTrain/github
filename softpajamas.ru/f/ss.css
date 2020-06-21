@@ -1,0 +1,26 @@
+form{
+  width: 90%;
+  margin: auto;
+}
+
+.ocsi {
+  display: block;
+  padding: 10px;
+  width: 100%;
+}
+
+.sub {
+   width: 100px;
+   margin: auto;
+}
+
+a {
+  padding: 10px;
+
+}
+
+#res {
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
